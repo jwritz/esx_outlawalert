@@ -10,3 +10,4 @@ Fork of the original resource which has the following changes: made esx compatib
 - JB, initial support for ESX
 - Jijamik, French translation
 - Hawaii_Beach, resource cleanup
+- S1lentWalrus [jwritz], added dispatch sounds and call waypoints 
