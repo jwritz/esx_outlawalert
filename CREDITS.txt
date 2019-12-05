@@ -1,4 +1,2 @@
 CREDITS: Thank you to all developers and people involved in creating all of these resources! 
 	Sound files: BetterDispatchAudio 2.2 by Steele1925 https://www.lcpdfr.com/files/file/13350-betterdispatchaudio/
-
-	Play sound files on clients: Interact Sound by plunkettscott https://github.com/plunkettscott/interact-sound
